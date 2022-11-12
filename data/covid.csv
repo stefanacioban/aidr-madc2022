@@ -1,0 +1,44 @@
+county_code,total_county,total_healed,total_dead,county
+B,4784,6,105,Municipiul Bucuresti
+SV,4114,5,242,Suceava
+AG,2656,0,95,Arges
+BV,2629,0,60,Brasov
+GL,1784,0,92,Galati
+DB,1577,6,18,Dambovita
+PH,1559,0,39,Prahova
+VN,1535,0,46,Vrancea
+IS,1328,1,42,Iasi
+BZ,1142,0,11,Buzau
+NT,1125,0,55,Neamt
+NA,1115,0,0,Judet Necunoscut
+BC,1112,0,58,Bacau
+BT,1109,3,57,Botosani
+IF,1106,0,23,Ilfov
+TM,985,4,55,Timis
+CJ,953,1,18,Cluj
+MS,895,0,67,Mures
+BH,836,0,22,Bihor
+HD,811,3,72,Hunedoara
+AR,799,1,77,Arad
+SB,793,0,46,Sibiu
+BN,754,0,66,Bistrita-Nasaud
+CT,728,2,19,Constanta
+AB,671,27,23,Alba
+GJ,642,1,10,Gorj
+IL,640,16,24,Ialomita
+BR,615,0,4,Braila
+OT,610,5,16,Olt
+DJ,559,0,6,Dolj
+MH,516,0,22,Mehedinti
+HR,495,0,3,Harghita
+VS,495,0,19,Vaslui
+CV,384,0,11,Covasna
+VL,343,0,4,Valcea
+GR,337,0,6,Giurgiu
+MM,333,1,6,Maramures
+TL,254,0,8,Tulcea
+TR,253,0,11,Teleorman
+CL,248,0,3,Calarasi
+CS,188,6,7,Caras-Severin
+SJ,149,0,17,Salaj
+SM,91,0,8,Satu Mare
