@@ -6,11 +6,11 @@ The project will be delivered in teams of maximum 5 people, with issues assigned
 
 ## :100: Steps to accomplish
 The project will consist of the following:  
-:one: Defining the project scope and data sources
+:one: Defining the project scope and data sources  
 :two: Creating a script to gather data from 2 distinct APIs  
-:three: Creating and populating a database with the data scraped at point :two: (using pymongo)
-:four: Data preprocessing (descriptive statistics, filling-in missing information, renaming columns, and so on)
-:five: Data transformation (transform variables, create new variables, and so on)
+:three: Creating and populating a database with the data scraped at point :two: (using pymongo)  
+:four: Data preprocessing (descriptive statistics, filling-in missing information, renaming columns, and so on)  
+:five: Data transformation (transform variables, create new variables, and so on)  
 :six: Exploratory data analysis (descriptive statistics, dashboards of the raw data included)  
 :seven: Presentation of the results (pdf and power point)  
 
